@@ -7,6 +7,7 @@
 
     <include layout="@layout/toolbar"/>
 
+    
     <fragment
         android:id="@+id/fragment_listing"
         android:name="com.evrencoskun.moviedb.listing.MoviesListingFragment"
